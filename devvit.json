@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
-  "name": "acmdevvit",
+  "name": "medha-25",
   "post": {
     "dir": "dist/client",
     "entrypoints": {
